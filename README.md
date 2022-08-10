@@ -7,7 +7,7 @@ This repo is based on the paper Giuseppe de Pinto et all (GitHub repo : https://
 * Mel spectogram and pitch
 * MFCC 
 * MFCC and pitch
-* Geneva extended minimilastic parameter ser (GeMAPS)
+* Geneva extended minimilastic parameter set (GeMAPS)
 * MFCC and GeMAPS
 * Mel Spectogram and GeMAPS
 
