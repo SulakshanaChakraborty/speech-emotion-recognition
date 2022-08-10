@@ -11,5 +11,5 @@ This repo is based on the paper Giuseppe de Pinto et all (GitHub repo : https://
 * MFCC and GeMAPS
 * Mel Spectogram and GeMAPS
 
-2) Speech Emotion Recognition: This notebook houses the code for running the speech emotion recognition task and speech processing pipeline and evalution visualisations.
+2) Speech Emotion Recognition: This notebook houses the code for running the speech emotion recognition task and speech processing pipeline.
 
